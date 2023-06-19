@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "hashicorp.terraform",
+    "hashicorp.hcl",
+    "bridgecrew.checkov",
+    "Infracost.infracost",
+    "editorconfig.editorconfig"
+  ]
+}
